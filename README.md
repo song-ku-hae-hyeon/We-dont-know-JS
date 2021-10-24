@@ -6,8 +6,6 @@
 
 ## ✨ Contributors
 
----
-
 <table>
   <tr>
     <td align="center">
@@ -43,20 +41,14 @@
 
 ## 🌈 Introduction
 
----
-
 평소 공부하고 싶었던 자바스크립트 주제를 학습한 후 정리한 저장소 입니다. 잘못된 부분은 PR과 이슈를 통해 지적해주세요.
 
 <br/>
 
 ## 👀 Rules
 
----
-
 <br/>
 
 ## 🚀 Contents
-
----
 
 ### JS
