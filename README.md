@@ -52,3 +52,5 @@
 ## 🚀 Contents
 
 ### JS
+
+- [ES2015](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/es2015.md)
