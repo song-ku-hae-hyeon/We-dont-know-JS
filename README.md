@@ -54,3 +54,7 @@
 ### JS
 
 - [ES2015](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/es2015.md)
+
+### Web
+
+- [브라우저의 렌더링 과정](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/Web/브라우저_렌더링.md)
