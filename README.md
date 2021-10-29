@@ -54,6 +54,11 @@
 ### JS
 
 - [ES2015](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/es2015.md)
+- [자바스크립트에서의 클로저](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/closure-in-javascript/closure-in-javascript.md)
+- [화살표 함수 vs 일반 함수](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/function-vs-arrow-function/function-vs-arrow-function.md)
+- [자바스크립트의 모듈 시스템](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/module-system-in-js/module-system-in-js.md)
+- [엄격 모드](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/strict-mode/strict-mode.md)
+- [변수선언 키워드 var, let, const](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/var-let-const/var-let-const.md)
 
 ### Web
 
