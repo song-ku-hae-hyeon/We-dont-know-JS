@@ -54,6 +54,10 @@
 ### JS
 
 - [ES2015](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/es2015.md)
+- [ES2016](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/es2016.md)
+- [ES2017](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/es2017.md)
+- [ES2018](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/es2018.md)
+- [ES2019](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/es2019.md)
 - [자바스크립트에서의 클로저](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/closure-in-javascript/closure-in-javascript.md)
 - [화살표 함수 vs 일반 함수](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/function-vs-arrow-function/function-vs-arrow-function.md)
 - [자바스크립트의 모듈 시스템](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/module-system-in-js/module-system-in-js.md)
