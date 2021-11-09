@@ -45,10 +45,6 @@
 
 <br/>
 
-## 👀 Rules
-
-<br/>
-
 ## 🚀 Contents
 
 ### JS
