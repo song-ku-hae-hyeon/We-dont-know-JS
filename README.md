@@ -61,6 +61,7 @@
 -   [엄격 모드](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/strict-mode/strict-mode.md)
 -   [변수선언 키워드 var, let, const](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/var-let-const/var-let-const.md)
 -   [생성자 함수](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/constructor-function.md)
+-   [Prototype](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/prototype.md)
 
 ### Web
 
