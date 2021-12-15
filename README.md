@@ -63,6 +63,7 @@
 -   [생성자 함수](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/constructor-function.md)
 -   [Prototype](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/prototype.md)
 -   [=== vs ==](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/===vs==.md)
+-   [즉시-실행 함수 표현식](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/immediately-invoked-function-expression.md)
 
 ### Web
 
