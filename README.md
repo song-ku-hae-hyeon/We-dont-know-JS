@@ -68,3 +68,4 @@
 ### Web
 
 -   [브라우저의 렌더링 과정](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/Web/브라우저_렌더링.md)
+-   [쿠키 vs 세션 vs JWT](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/Web/쿠키vs세션vsJWT.md)
