@@ -91,3 +91,7 @@ Object.is(x, NaN); // true
 Object.is(y, -0); // true
 Object.is(y, 0); // false
 ```
+
+### 참고
+
+[You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
