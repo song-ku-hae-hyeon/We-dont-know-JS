@@ -67,6 +67,7 @@
 -   [undefined & null](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/undefined%20vs%20null.md)
 -   [특수 숫자(NaN, 무한대, 0)](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/special-numbers.md)
 -   [유사배열](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/유사배열.md)
+-   [명시적 강제변환](https://github.com/We-dont-know-JS/We-dont-know-JS/blob/main/js/명시적_강제변환.md)
 
 ### Web
 
