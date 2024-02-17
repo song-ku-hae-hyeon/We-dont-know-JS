@@ -12,7 +12,7 @@
       <img src="https://github.com/rudy3091.png" width="80">
     </td>
     <td align="center">
-      <img src="https://github.com/haesoo9410.png" width="80">
+      <img src="https://github.com/haesoo-y.png" width="80">
     </td>
     <td align="center">
       <img src="https://github.com/ingong.png" width="80">
@@ -26,7 +26,7 @@
       <a href="https://github.com/rudy3091">rudy3091</a>
     </td>
     <td align="center">
-      <a href="https://github.com/haesoo9410">Harry</a>
+      <a href="https://github.com/haesoo-y">Harry</a>
     </td>
     <td align="center">
       <a href="https://github.com/ingong">ingong</a>
